@@ -124,7 +124,15 @@ tests/test_kpis.py .
 4. Auto-open browser functionality
 5. Real-time KPI updates
 
+--Output--
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c4b8cbd6-ca32-4fe4-87c8-2df141e0639c" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/8a6e6fa7-9060-48b6-85e9-03a6ca5dcf1e" />
+
+
+   
+
 Author
 Rakshitha HS
 Project: Supplier Performance & SLA Dashboard
+
 
